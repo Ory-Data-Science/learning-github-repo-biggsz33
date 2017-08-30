@@ -3,4 +3,7 @@ Types of Data in Pharmacy
 	Customer satisfaction data
 	Drug abuse numbers
 	Transactions
+	Employee compensation
+	List of prescriptions written for each given drug
+	Demographic data
 	
