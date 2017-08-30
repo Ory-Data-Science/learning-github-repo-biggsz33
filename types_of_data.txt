@@ -1,0 +1,3 @@
+Types of Data in Pharmacy
+	Expense reports
+	Customer satisfaction data
