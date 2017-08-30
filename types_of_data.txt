@@ -8,4 +8,4 @@ Types of Data in Pharmacy
 	Demographic data
 	Drug effectiveness 
 	Side effect prevalence 
-	Adverse reactions
+	
