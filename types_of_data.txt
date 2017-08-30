@@ -4,6 +4,8 @@ Types of Data in Pharmacy
 	Drug abuse numbers
 	Transactions
 	Employee compensation
-	List of prescriptions written for each given drug
+	Number of prescriptions for given drugs
 	Demographic data
-	
+	Drug effectiveness 
+	Side effect prevalence 
+	Adverse reactions
